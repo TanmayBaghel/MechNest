@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/MechNest/static/css/main.e0734d12.css",
-    "main.js": "/MechNest/static/js/main.16a3e50d.js",
+    "main.js": "/MechNest/static/js/main.edfd54d8.js",
     "static/media/3.png": "/MechNest/static/media/3.2370299191aed9350fa5.png",
     "static/media/1.png": "/MechNest/static/media/1.5db22baf37e1b4f4b993.png",
     "static/media/2.png": "/MechNest/static/media/2.963bcee808799d779d8c.png",
+    "static/media/CEO.jpeg": "/MechNest/static/media/CEO.4a6f57f96b2675e4b3bb.jpeg",
     "index.html": "/MechNest/index.html",
     "main.e0734d12.css.map": "/MechNest/static/css/main.e0734d12.css.map",
-    "main.16a3e50d.js.map": "/MechNest/static/js/main.16a3e50d.js.map"
+    "main.edfd54d8.js.map": "/MechNest/static/js/main.edfd54d8.js.map"
   },
   "entrypoints": [
     "static/css/main.e0734d12.css",
-    "static/js/main.16a3e50d.js"
+    "static/js/main.edfd54d8.js"
   ]
 }
