@@ -1,11 +1,12 @@
 import React from "react";
+import CEOImage from "../../assets/images/CEO.jpeg";
 
 const leadershipTeam = [
   {
     name: "Rohan Verma",
     title: "Founder & CEO",
     bio: "With over 20 years in mechanical design, Rohan founded MechNest to bridge the gap between theoretical engineering and practical, industry-ready solutions.",
-    img: "https://images.unsplash.com/photo-1599566150163-29194dcaad36?q=80&w=300&auto=format&fit=crop",
+    img: CEOImage,
   },
   {
     name: "Anjali Mehta",
